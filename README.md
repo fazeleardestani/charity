@@ -120,7 +120,7 @@ charity/
 
 #### **Developer | توسعه‌دهنده**
 - **Name | نام**: Fazele Ardestani | فاضله اردستانی
-- **Email | ایمیل**: [Insert Your Email]
+- **Email | ایمیل**: [ArdestaniFazele@gmail.com]
 
 ---
 
